@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer, Game Developer and Backend Developer<br><br>Luau (Roblox Studio) - 7+ Years<br>C# - 4+ Years<br>JavaScript - 3+ Years<br>Python - 2+ Years<br>C++ - Starting
+Software Developer, Game Developer and Backend Developer<br><br>Luau (Roblox Studio) - 7+ Years<br>C# - 4+ Years<br>JavaScript - 5+ Years<br>Python - 2+ Years<br>C++ - Starting
 
 
 ## 🌐 Socials:
